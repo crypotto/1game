@@ -1,3 +1,51 @@
+# 1Game - React + Phaser Game
+
+A web-based game built with React and Phaser, demonstrating modern web game development practices.
+
+## 🎮 Play Now
+
+Visit [1Game on Vercel](https://1game-g92rckgtr-crypottos-projects.vercel.app) to play the game!
+
+## 🚀 Development
+
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/crypotto/1game.git
+   cd 1game
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+4. Open [http://localhost:5173](http://localhost:5173) in your browser.
+
+## 🛠 Build
+
+To create a production build:
+```bash
+npm run build
+```
+
+## 🔄 Deployment
+
+This project is automatically deployed to Vercel on every push to the main branch.
+
+## 🧰 Tech Stack
+
+- React
+- Vite
+- Phaser
+- Vercel (Hosting)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
